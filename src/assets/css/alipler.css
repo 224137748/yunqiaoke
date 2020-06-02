@@ -1,0 +1,26 @@
+.prism-player .prism-big-play-btn {
+  width: 1.102222rem;
+  height: 1.102222rem;
+  background: url("../img/buddy/player.png") no-repeat;
+  background-size: 100%;
+  transform: translate(-50%,-50%);
+}
+.prism-player .prism-big-play-btn .outter{
+	border: 0;
+}
+.prism-player .preview-custom .player_vie-bt{
+	color: white;
+	font-size: 0.355555rem;
+	padding: 0.177777rem 0.355555rem;
+	background-color: #7265E3;
+	border-radius: 0.355555rem;
+	margin-top: 0.355555rem;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	z-index: 1;
+}
+.preview-vod-component .preview-component-tip span, .preview-vod-component .preview-component-tip{
+	color: #FE9C5E;
+}

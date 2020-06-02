@@ -1,0 +1,18 @@
+.mint-indexlist-nav{border-left: 0;background-color: rgba(0,0,0,0);position: fixed;}
+.mint-indexsection-index{background-color: #F4F6FA;}
+.cell{width: 100%;height: 1.28rem;line-height: 1.28rem;margin-left: 3%;border-bottom: 0.026666rem solid #EDEDF7;font-size: 0.4rem}
+.title{font-size: 0.355555rem;padding-left: 3%;}
+.hotP{position: relative;}
+.hotP p{display: none;}
+.hotCity{flex-wrap: wrap;-ms-flex-wrap: wrap;display: flex;width: 94%;margin: 0 auto;padding-top: 0.355555rem;}
+.result{position: absolute;left: 0;top: 1.437777rem;background-color: #FFFFFF;width: 100%;z-index: 11;border-top: 0.026666rem solid #F6F6FB;}
+.result .item{line-height: 1.137777rem;width: 94%;margin: 0 auto;border-bottom: 0.026666rem solid #F6F6FB;position: relative;}
+.result .item span{font-size: 0.373333rem;color: #000000;display: block;padding-left: 0.711111rem;font-weight: bold;}
+.result .item span img{width: 0.408888rem;position: absolute;left: 0;top: 50%;transform: translateY(-50%);}
+.black{position: fixed;width: 100%;height: 100%;background-color: rgba(255,255,255);z-index: 10;}
+.hotCity .item{padding-right: 0.177777rem;padding-bottom: 0.266666rem;}
+.hotCity .item span{padding: 0.133333rem 0.355555rem;background-color: #F4F6FA;display: inline-block;border-radius: 0.355555rem;font-size: 0.355555rem}
+.hotCity .item span img{vertical-align: sub; width: 0.4rem;height: 0.4rem;margin-right: 0.142222rem;}
+.citySerch{background-color: #F6F6FB;position: relative;width: 97%;border-radius: 0.106666rem;overflow: hidden;margin: 0.266666rem 0;margin-left: 3%;height: 1.137777rem;line-height: 1.137777rem;position: relative;z-index: 999;}
+.citySerch input{background-color: #F6F6FB;font-size: 0.373333rem;padding-left: 0.888888rem;padding-right: 0.355555rem;width: 100%;}
+.citySerch img{width: 0.408888rem;height: 0.408888rem;position: absolute;left: 0.266666rem;top: 50%;transform: translateY(-50%);}
